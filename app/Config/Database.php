@@ -33,9 +33,9 @@ class Database extends Config
     public $default = [
         'DSN'      => '',
         'hostname' => 'localhost',
-        'username' => 'root',
-        'password' => '',
-        'database' => 'api_ci4',
+        'username' => 'ruap8776_myapi',
+        'password' => 'h?JR}[0o5&Sn',
+        'database' => 'ruap8776_myapi',
         'DBDriver' => 'MySQLi',
         'DBPrefix' => '',
         'pConnect' => false,
